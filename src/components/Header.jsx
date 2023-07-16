@@ -23,8 +23,8 @@ const MainHeader = styled.header`
   align-items: center;
 
   .logo {
-    height: auto;
-    max-width: 30%;
+    height: 50%;
+    max-width: 20%;
   }
 `;
 
